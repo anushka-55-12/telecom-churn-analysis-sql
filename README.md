@@ -27,18 +27,18 @@ Telco Customer Churn Dataset (Kaggle)
 ---
 
 ## 📊 Key Insights
-- Month-to-month contract customers show the highest churn rate
-- High monthly charges increase the likelihood of churn
-- Customers without tech support are more likely to leave
-- Majority of churn occurs within the first year
+- Month-to-month contract customers have the highest churn rate
+- Customers with high monthly charges are more likely to churn
+- Lack of tech support significantly increases churn
+- Most customers churn within the first year
 
 ---
 
 ## 💡 Business Recommendations
-- Introduce incentives for long-term contracts
+- Offer discounts for long-term contracts to reduce churn
 - Improve onboarding experience for new customers
-- Offer bundled pricing plans for high-value customers
-- Enhance customer support services
+- Provide better customer support services
+- Introduce flexible pricing plans for high-value customers
 
 ---
 
